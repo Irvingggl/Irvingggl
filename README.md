@@ -4,13 +4,13 @@
 
 Soy estudiante de **Ingeniería en Inteligencia Artificial** en el **Instituto Tecnológico de Tijuana**. Estoy construyendo experiencia en desarrollo de software mediante proyectos académicos y trabajo en equipo. Me interesan el diseño de interfaces, la tecnología aplicada a problemas reales y el cómputo en la nube.
 
-**Clasificado a la etapa nacional de InnovaTecNM 2026.** Mi trayectoria en esta edición incluye un segundo lugar en la etapa local universitaria y la clasificación a la nacional tras participar en la etapa regional en Chihuahua.
+**Integrante del equipo MIRIA, acreditado para la etapa nacional de HackaTec en InnovaTecNM 2026.** Mi trayectoria en esta edición incluye un segundo lugar en la etapa local universitaria y la clasificación a la nacional tras participar en la etapa regional en Chihuahua.
 
 ## Proyecto destacado
 
 ### B.A.W.Í. — Agua, talento y comunidad
 
-Proyecto en equipo que aborda el uso del agua en la agricultura y el intercambio de conocimiento entre productores. Integra áreas de riego, comunidad y capacitación.
+Proyecto desarrollado con el **equipo MIRIA** que aborda el uso del agua en la agricultura y el intercambio de conocimiento entre productores. Integra áreas de riego, comunidad y capacitación.
 
 **Mi aportación**
 
@@ -36,10 +36,25 @@ Mi trabajo se centró en el prototipado de interfaces y las propuestas de capaci
 | Fecha | Etapa y sede | Resultado o estado |
 |---|---|---|
 | Mayo de 2026 | Etapa local · Instituto Tecnológico de Tijuana | **2.º lugar** y clasificación a la etapa regional. |
-| Octubre de 2026 | HackaTec · Etapa regional en Chihuahua | Participación con el equipo B.A.W.Í. y **clasificación a la etapa nacional**. |
-| 23–27 de noviembre de 2026 | InnovaTecNM · Etapa nacional en el Instituto Tecnológico de Puebla | **Clasificado; participación próxima.** |
+| Octubre de 2026 | HackaTec · Etapa regional, Instituto Tecnológico de Chihuahua II | Participación con el **equipo MIRIA**, proyecto B.A.W.Í., y **acreditación para la etapa nacional**, emitida el 9 de octubre. |
+| 23–27 de noviembre de 2026 | HackaTec · Etapa nacional de InnovaTecNM, Instituto Tecnológico de Puebla | **Equipo acreditado; participación próxima.** |
 
 Sede y fechas de la etapa nacional: [anuncio oficial del Instituto Tecnológico de Puebla](https://www.puebla.tecnm.mx/puebla-sera-sede-de-innovatecnm-2026/).
+
+### Acreditación a la etapa nacional
+
+El Tecnológico Nacional de México, a través del Instituto Tecnológico de Chihuahua II, otorgó al **equipo MIRIA del Instituto Tecnológico de Tijuana** la acreditación para participar en la etapa nacional de **HackaTec, InnovaTecNM 2026**. Documento expedido en Chihuahua el **9 de octubre de 2026**.
+
+<details>
+<summary>Ver acreditación del equipo MIRIA</summary>
+
+<p align="center">
+  <img src="assets/acreditacion-hackatec-nacional-2026.jpg" alt="Acreditación del equipo MIRIA del Instituto Tecnológico de Tijuana para la etapa nacional de HackaTec en InnovaTecNM 2026" width="460">
+</p>
+
+[Consultar el documento completo en PDF](docs/acreditacion-hackatec-nacional-2026.pdf)
+
+</details>
 
 ## En qué estoy trabajando
 
