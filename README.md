@@ -2,7 +2,9 @@
 
 **Interfaces web · Python · Proyectos con impacto social**
 
-Soy estudiante y estoy construyendo experiencia en desarrollo de software mediante proyectos académicos y trabajo en equipo. Me interesan el diseño de interfaces, la tecnología aplicada a problemas reales y el cómputo en la nube.
+Soy estudiante de **Ingeniería en Inteligencia Artificial** en el **Instituto Tecnológico de Tijuana**. Estoy construyendo experiencia en desarrollo de software mediante proyectos académicos y trabajo en equipo. Me interesan el diseño de interfaces, la tecnología aplicada a problemas reales y el cómputo en la nube.
+
+**Clasificado a la etapa nacional de InnovaTecNM 2026.** Mi trayectoria en esta edición incluye un segundo lugar en la etapa local universitaria y la clasificación a la nacional tras participar en la etapa regional en Chihuahua.
 
 ## Proyecto destacado
 
@@ -29,11 +31,15 @@ Mi trabajo se centró en el prototipado de interfaces y las propuestas de capaci
 | Git y GitHub | Aprendizaje de control de versiones y colaboración. |
 | Cómputo en la nube | Formación académica y exploración de servicios en la nube. |
 
-## Eventos y participación
+## Logros y participación en eventos
 
-| Evento | Participación | Aportación |
+| Fecha | Etapa y sede | Resultado o estado |
 |---|---|---|
-| HackaTec 2026 · Etapa regional | Integrante del equipo B.A.W.Í. | Prototipado de interfaces y propuestas de capacitación para la comunidad. |
+| Mayo de 2026 | Etapa local · Instituto Tecnológico de Tijuana | **2.º lugar** y clasificación a la etapa regional. |
+| Octubre de 2026 | HackaTec · Etapa regional en Chihuahua | Participación con el equipo B.A.W.Í. y **clasificación a la etapa nacional**. |
+| 23–27 de noviembre de 2026 | InnovaTecNM · Etapa nacional en el Instituto Tecnológico de Puebla | **Clasificado; participación próxima.** |
+
+Sede y fechas de la etapa nacional: [anuncio oficial del Instituto Tecnológico de Puebla](https://www.puebla.tecnm.mx/puebla-sera-sede-de-innovatecnm-2026/).
 
 ## En qué estoy trabajando
 
