@@ -49,10 +49,10 @@ El Tecnológico Nacional de México, a través del Instituto Tecnológico de Chi
 <summary>Ver acreditación del equipo MIRIA</summary>
 
 <p align="center">
-  <img src="assets/acreditacion-hackatec-nacional-2026.jpg" alt="Acreditación del equipo MIRIA del Instituto Tecnológico de Tijuana para la etapa nacional de HackaTec en InnovaTecNM 2026" width="460">
+  <img src="acreditacion-hackatec-nacional-2026.jpg" alt="Acreditación del equipo MIRIA del Instituto Tecnológico de Tijuana para la etapa nacional de HackaTec en InnovaTecNM 2026" width="460">
 </p>
 
-[Consultar el documento completo en PDF](docs/acreditacion-hackatec-nacional-2026.pdf)
+[Consultar el documento completo en PDF](acreditacion-hackatec-nacional-2026.pdf)
 
 </details>
 
